@@ -16,3 +16,5 @@ services:
 networks:
   rabbitmq:
     driver: bridge
+
+#questa è una modifica di prova
